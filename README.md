@@ -1,4 +1,4 @@
-# analise-de-dados-faculdade
+# data-analysis-faculdade
 trabalho de análise de dados da faculdade
 
 <h3 align="left">objetivo</h3>
