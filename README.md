@@ -5,7 +5,7 @@ trabalho de análise de dados da faculdade
 <p>
   o objetivo deste trabalho é realizar uma análise estatística de um conjunto de dados escolhido, utilizando as bibliotecas pandas e matplotlib. o trabalho envolve os seguintes passos:
 
-  - escolher um conjunto de dados de um portal de dados abertos (<a href="https://dados.gov.br" target="_blank">dados.gov.br</a> ou <a href="https://www.kaggle.com" target="_blank">kaggle</a>).
+  - escolher um conjunto de dados de um portal de dados abertos (exemplo: <a href="https://dados.gov.br" target="_blank">dados.gov.br</a> ou <a href="https://www.kaggle.com" target="_blank">kaggle</a>).
   - apresentar o conjunto de dados escolhido, destacando os campos e o universo de aplicação.
   - levantar uma hipótese de investigação e apresentar as estatísticas descritivas dos dados.
   - realizar e apresentar duas análises estatísticas, justificando sua relevância para o conjunto de dados.
