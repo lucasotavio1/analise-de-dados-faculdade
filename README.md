@@ -1,6 +1,4 @@
 # analise-de-dados-faculdade
-trabalho de análise de dados da faculdade
-
 <h3 align="left">objetivo</h3>
 <p>
   o objetivo deste trabalho é realizar uma análise estatística de um conjunto de dados escolhido, utilizando as bibliotecas pandas e matplotlib. o trabalho envolve os seguintes passos:
@@ -52,3 +50,4 @@ trabalho de análise de dados da faculdade
 <h3 align="left">autor</h3>
 
 feito com ❤️ por Lucas Otávio e [@LuHenRe](github.com/LuHenRe)
+
